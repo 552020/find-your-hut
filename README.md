@@ -2,6 +2,14 @@
 
 ## Description
 
+## Preview
+
+- The asterisk symbol '\*' is the player.
+- The caret symbol '^' represents the hat.
+- The circles, which are 'O's, are the bombs or holes.
+
+![Preview](assets/images/find-your-hat-demo.gif)
+
 ## Online
 
 ## Requirements
